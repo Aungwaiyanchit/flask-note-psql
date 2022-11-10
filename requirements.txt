@@ -1,0 +1,9 @@
+flask
+psycopg2
+flask-jwt-extended
+flask-uuid
+flask-bcrypt
+flask-sqlalchemy
+python-dotenv
+flask-cors
+flask-restful
